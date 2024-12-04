@@ -32,4 +32,4 @@ def computer_guess(x):
 
 
 
-computer_guess(10)
+computer_guess(1000)
